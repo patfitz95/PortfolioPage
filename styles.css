@@ -53,6 +53,13 @@
     font-family: 'Courier New', monospace;
     padding-bottom: 20px;
 }
+.workPicture {
+    max-height: 400px;
+    width: 400px;
+    border-radius: 1.5em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 .workTitle {
     font-size: 60px;
 }
