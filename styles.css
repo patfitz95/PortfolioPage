@@ -86,6 +86,11 @@
     padding-bottom: 2%;
     font-size: 60px;
 }
+.contactBreak {
+    width: 5%;
+    background-color:whitesmoke;
+    margin-bottom: 2%;
+}
 .email {
     color: white;
 }
